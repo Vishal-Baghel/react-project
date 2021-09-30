@@ -1,0 +1,29 @@
+.global{
+    color: #8aca28;
+    /* margin-bottom: 50px; */
+    text-align: center;
+    font-size: 70px;
+}
+.title{
+    margin-top:  10px; 
+}
+.gridCard{
+    margin: 10px ;
+    border-bottom: 10px solid yellow;
+
+
+}
+.heading{
+    padding: 15px;
+    background-color: #8aca28;
+    color: #fff;
+    font-size: 25px;
+}
+
+.component3{
+margin: 50px 0px;
+}
+.chartContainer{
+    width: 60%;
+    margin-top: 20px;
+}
